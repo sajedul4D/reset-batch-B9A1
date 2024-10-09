@@ -264,7 +264,7 @@ background: url(Jhankar);
 .whatt{
     width: 1040px;
   
-margin: 120px auto;
+margin: 100px auto;
 
 }
 .what-if{
@@ -386,6 +386,25 @@ height: 50px;
     margin: 10px 100px;
     
  }
+ p {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+  
+ }
+ h2{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 800;
+line-height: 37px;
+letter-spacing: 0%;
+
+ }
+
 
 
 
